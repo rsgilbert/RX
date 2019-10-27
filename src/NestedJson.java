@@ -31,11 +31,3 @@ public class NestedJson {
     }
 }
 
-
-//public static class Person {
-//    NestedJson.Person.Names names;
-//    public String age;
-//    public class Names {
-//        public String firstName, lastName;
-//    }
-//}
